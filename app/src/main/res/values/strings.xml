@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LogDaemon</string>
+    <string name="logdaemon_permission">LogDaemon Permission</string>
+    <string name="logdaemon_permission_label">LogDaemon Permission</string>
+</resources>

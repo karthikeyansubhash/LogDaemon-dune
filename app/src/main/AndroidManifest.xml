@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:sharedUserId="android.uid.system"
+    package="com.hp.jetadvantage.link.logdaemon">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_LOGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="com.hp.packagemanager.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="com.hp.jetadvantage.link.system.SYSTEM_PERMISSION" />
+
+    <permission
+        android:name="com.hp.jetadvantage.link.system.LOGDAEMON_PERMISSION"
+        android:description="@string/logdaemon_permission"
+        android:label="@string/logdaemon_permission_label"
+        android:protectionLevel="signatureOrSystem" />
+
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Holo"
+        android:requestLegacyExternalStorage="true">
+
+        <receiver
+            android:name=".receivers.BootCompletedReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="com.hp.intent.action.logdaemon.start" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name=".receivers.DeviceReadyReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="com.hp.jetadvantage.link.system.SYSTEM_PERMISSION">
+            <intent-filter>
+                <action android:name="com.hp.workpath.system.DEVICE_READY" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name=".receivers.LogTestReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.hp.jetadvantage.link.logdaemon.TEST_ALL_LOGS" />
+                <action android:name="com.hp.jetadvantage.link.logdaemon.TEST_PLATFORM_LOGS" />
+                <action android:name="com.hp.jetadvantage.link.logdaemon.TEST_SOLUTION_DEBUG_LOGS" />
+                <action android:name="com.hp.jetadvantage.link.logdaemon.TEST_SOLUTION_CRASH_LOGS" />
+                <action android:name="com.hp.jetadvantage.link.logdaemon.TEST_ALL_LOG_TYPES" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name=".receivers.PackageUninstallReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="com.hp.jetadvantage.link.system.SYSTEM_PERMISSION">
+            <intent-filter>
+                <action android:name="com.hp.packagemanager.intent.action.PACKAGE_UNINSTALLED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".services.LogcatService"
+            android:enabled="true"
+            android:permission="com.hp.jetadvantage.link.system.LOGDAEMON_PERMISSION"
+            android:exported="true"/>
+
+        <service
+            android:name=".services.WSCallbackLogManagement"
+            android:enabled="true"
+            android:permission="com.hp.jetadvantage.link.system.LOGDAEMON_PERMISSION"
+            android:exported="true"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+<resources>
+    <style name="ScreenDialog" parent="@android:style/Theme.DeviceDefault.Dialog.NoActionBar">
+    </style>
+</resources>

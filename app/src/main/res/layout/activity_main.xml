@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Logd" />
+
+        <Button
+            android:id="@+id/btn_stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/btn_start"
+            android:text="Stop Logd" />
+
+        <Button
+            android:id="@+id/btn_fileStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/btn_stop"
+            android:text="Fstart" />
+
+        <Button
+            android:id="@+id/btn_fileStop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/btn_fileStart"
+            android:text="Fstop" />
+        <EditText
+            android:id="@+id/input_filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="filter"
+            android:layout_toRightOf="@+id/btn_fileStop"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            />
+
+        <ScrollView
+            android:id="@+id/scollview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/btn_fileStart"
+            android:scrollbars="vertical"
+            android:fillViewport="true">
+
+            <TextView
+                android:id="@+id/logcat_win"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:background="#fada5e"/>
+        </ScrollView>
+
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

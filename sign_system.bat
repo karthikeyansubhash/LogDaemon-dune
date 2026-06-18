@@ -1,0 +1,1 @@
+java -jar SignApk.jar platform.x509.pem platform.pk8 D:\WorkSpace\Source\LogDaemon\build\modules\app\outputs\apk\debug\app-debug.apk D:\WorkSpace\Source\LogDaemon\Logdaemon-sign.apk
