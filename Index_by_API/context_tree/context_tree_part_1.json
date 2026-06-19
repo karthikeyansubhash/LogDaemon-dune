@@ -1,0 +1,2361 @@
+{
+    ".github": {
+        "github_mcp": {
+            "generated_doc_filepath": "",
+            "purpose": "",
+            "associated_knowledge_bases": {
+                "raw_code": [
+                    {
+                        "file_identity": "MCP-Setup-Guide.md",
+                        ".github/github_mcp/MCP-Setup-Guide.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc",
+                                    "language": "markdown",
+                                    "id": "8e8b85bc79d0fe390f06db455a15767dec2f80adde4ed845674e59c97e064db9",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83c\udfaf \uc124\uce58 \uc644\ub8cc \ud56d\ubaa9",
+                                    "language": "markdown",
+                                    "id": "d9e8ec7e7ac8e30b7a22a18cef9d8f5d8da7b6165f7279a1b33f716952e3f0f2",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83c\udfaf \uc124\uce58 \uc644\ub8cc \ud56d\ubaa9 > \u2705 GitHub MCP Server (HP Enterprise)",
+                                    "language": "markdown",
+                                    "id": "180647343722fb0aa3c2c3701fba2df9e5c721f3cccb4bffb1a3dc5d622f530a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83c\udfaf \uc124\uce58 \uc644\ub8cc \ud56d\ubaa9 > \u2705 Filesystem MCP Server",
+                                    "language": "markdown",
+                                    "id": "5c5ebd4f23f215b0f31cc2c92511332155a3bcd023c40a9d8af2830a7367fa73",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udccb \ub2e4\uc74c \ub2e8\uacc4",
+                                    "language": "markdown",
+                                    "id": "34c006c72a46bf8d2f3e3cd941fbdbdbf26fc18de2a93e07f34cf995a3dfb3d0",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udccb \ub2e4\uc74c \ub2e8\uacc4 > 1. GitHub Personal Access Token \u2705 \uc644\ub8cc",
+                                    "language": "markdown",
+                                    "id": "5d3595b50a2fe83ba548b2ae9c8dd401a3b1787387628f845074f1f381f5e729",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udccb \ub2e4\uc74c \ub2e8\uacc4 > 2. VS Code\uc5d0\uc11c MCP \ud65c\uc131\ud654",
+                                    "language": "markdown",
+                                    "id": "609a269dcc8006c524bebaaa31190695a381a746c3174f775bd39e4a2249cbd3",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udccb \ub2e4\uc74c \ub2e8\uacc4 > 3. \uc0ac\uc6a9 \uac00\ub2a5\ud55c \uae30\ub2a5",
+                                    "language": "markdown",
+                                    "id": "37eebd1ac74ea3dcc79af249e5eb1d13ef0a15b1125466141d7d70b4fae6291b",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udccb \ub2e4\uc74c \ub2e8\uacc4 > 3. \uc0ac\uc6a9 \uac00\ub2a5\ud55c \uae30\ub2a5 > GitHub MCP Server",
+                                    "language": "markdown",
+                                    "id": "98fd99bd5b4d8cbb5631590e6198c88b793eb7c83dee14283e27dcc21bb47514",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udccb \ub2e4\uc74c \ub2e8\uacc4 > 3. \uc0ac\uc6a9 \uac00\ub2a5\ud55c \uae30\ub2a5 > Filesystem MCP Server",
+                                    "language": "markdown",
+                                    "id": "2f1b1d457484992aab680f04d987926c6fc59959c7bf13abc17d498482cad4de",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\ude80 \uc0ac\uc6a9 \uc608\uc2dc",
+                                    "language": "markdown",
+                                    "id": "a9877bf567e227f2753e68a3b7ffa00455fbd34f4eb96fd0715803e0418ed432",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\ude80 \uc0ac\uc6a9 \uc608\uc2dc > GitHub \uad00\ub828 \uc9c8\ubb38",
+                                    "language": "markdown",
+                                    "id": "a35a53175d07ae7f09672c98847dbaf71b01f58011fee13b0a6d2bb219a922c9",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\ude80 \uc0ac\uc6a9 \uc608\uc2dc > \ud30c\uc77c \uc2dc\uc2a4\ud15c \uad00\ub828 \uc9c8\ubb38",
+                                    "language": "markdown",
+                                    "id": "d431babaa8d2713d02f957e602f2c6615c45a7c2f4cf3fee9b19f9d9c53a46c5",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83d\udd27 \uc124\uc815 \ud30c\uc77c \uc704\uce58",
+                                    "language": "markdown",
+                                    "id": "39c2d20872f0a57af247424a977ed56c1d567374b849d9ea90edbcf65d3dc708",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \u26a0\ufe0f \uc8fc\uc758\uc0ac\ud56d",
+                                    "language": "markdown",
+                                    "id": "2907b24f53ba6483201f23ece13e80643596f1a75555b1a4b91de0c4f69ed8cb",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "GitHub MCP Server \uc124\uce58 \ubc0f \uc124\uc815 \uac00\uc774\ub4dc > \ud83c\udf89 \uc644\ub8cc!",
+                                    "language": "markdown",
+                                    "id": "7b2e28c4705f9a6542f4efe34a68968cfb610be9be9b67fa5c29a8939e3b5486",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/MCP-Setup-Guide.md",
+                                    "startLine": 1,
+                                    "blobSha": "6220139a38982afee8e94f75d7caabff56d5d1d3",
+                                    "name": "MCP-Setup-Guide.md",
+                                    "language": "markdown",
+                                    "id": "304d96ca8163b77b3dabcc7d325dac3cb4889354595d59c8f0dd25a10cc206c7",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "test-hp-github-mcp.sh",
+                        ".github/github_mcp/test-hp-github-mcp.sh": {
+                            "chunks": [
+                                {
+                                    "endLine": 46,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/github_mcp/test-hp-github-mcp.sh",
+                                    "startLine": 1,
+                                    "blobSha": "3eb90e36295fef89a33531c49b3640dfc2ecbbd4",
+                                    "name": "",
+                                    "language": "unknown",
+                                    "id": "222b6b9cc2485761cdded1a435c3d095562e1b00b1cdbe1dcd03499f267ad3e6",
+                                    "chunkType": "fallback",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code_doc": [
+                    {
+                        "kb_id": "",
+                        "kb_name": ""
+                    }
+                ]
+            }
+        },
+        "instructions": {
+            "generated_doc_filepath": "",
+            "purpose": "",
+            "associated_knowledge_bases": {
+                "raw_code": [
+                    {
+                        "file_identity": "android-coding-style.instructions.md",
+                        ".github/instructions/android-coding-style.instructions.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines",
+                                    "language": "markdown",
+                                    "id": "7e699c127468e04f8f83138e10231d97c13511b07f74da8028172c6a2deb3c40",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Source File Organization",
+                                    "language": "markdown",
+                                    "id": "be47a1ee8209fbc5a4d8dc8fee67a0eecc288549def72e1a97a9fff061c41e71",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Naming Conventions",
+                                    "language": "markdown",
+                                    "id": "e45cf0f1dd2858d26d73cb60670c3d9d85df579a96ee7fb9a55ab879f8bf7a18",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Formatting",
+                                    "language": "markdown",
+                                    "id": "c8adf30c649ed5c0d0b1664a3b159eaea583a5716ed7cacad2be5c9d2b3ac06b",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Comment Rules",
+                                    "language": "markdown",
+                                    "id": "0cd9dc8cbb5045c9de00b23b36d3a402dd62bce2e63d1c6bc0b3e28bd9321988",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Code Structure",
+                                    "language": "markdown",
+                                    "id": "cc52e2d780b263f0eb53f0a1424624b47c9969e5d7d7fa734723c758430136ef",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Logging",
+                                    "language": "markdown",
+                                    "id": "98f1781680a0980dd6dbe989095f87e3022480e2e01caf5a7d5a90048942b835",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "Android Java Code Style Guidelines > Android-Specific Rules",
+                                    "language": "markdown",
+                                    "id": "5b29cfbd7e05dabb7e56b6ef1301fad3a682a618d5afb28baa74c8bc33724a35",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-coding-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "93a5f2017a2318f1c10bb2e1ee9cbacb5399e198",
+                                    "name": "android-coding-style.instructions.md",
+                                    "language": "markdown",
+                                    "id": "fc45f0e6127e07e141c0e114677fe2f5e7007b1861f990965a4936d849097fae",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "android-xml-style.instructions.md",
+                        ".github/instructions/android-xml-style.instructions.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines",
+                                    "language": "markdown",
+                                    "id": "34ddb2f1a97e6eefedd2dc5a6ef4eda3788ae8aed8481b57e88981d464df960c",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Layout Files",
+                                    "language": "markdown",
+                                    "id": "4a7900817e53f233fb4e1c9badc91ca711c9642a3ae05bac009f878db97be886",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Resource Naming Conventions",
+                                    "language": "markdown",
+                                    "id": "a5510d77454674f727bcff92b93508274af287d2466af5d8d45f513111f37501",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Attribute Formatting",
+                                    "language": "markdown",
+                                    "id": "bdcd806e53d8bd6b828661ff8a1149297114b1af079e8273cd7b6ef7a673e195",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Supporting Multiple Screen Sizes",
+                                    "language": "markdown",
+                                    "id": "920bc9000d8fcda1cd70291c5632f6528a3bb73fcbf77bd66903888bc9ce2e54",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Accessibility",
+                                    "language": "markdown",
+                                    "id": "efed591dd19d0b9cfa596945f467c7bbca4cf1ab7512fe92e12fb5c89e9d5147",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Comments",
+                                    "language": "markdown",
+                                    "id": "1561a41c2ca58ebf81ffbb2c884559f9dd2d0a0ba50752216336312855ccbe6d",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "Android XML Resource Style Guidelines > Best Practices",
+                                    "language": "markdown",
+                                    "id": "9f9d805ea3bf20522dc45c16e72cf021249de2bcbe080df6857154ffbd2c3dcb",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/instructions/android-xml-style.instructions.md",
+                                    "startLine": 1,
+                                    "blobSha": "ede2211b65b34bbc97994230538541f4b4a6f7cf",
+                                    "name": "android-xml-style.instructions.md",
+                                    "language": "markdown",
+                                    "id": "2dea35cce02043e0dfb8f294dd027ec2702c315b8bf2bff22bb37c5901c1e2a9",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code_doc": [
+                    {
+                        "kb_id": "",
+                        "kb_name": ""
+                    }
+                ]
+            }
+        },
+        "prompts": {
+            "generated_doc_filepath": "",
+            "purpose": "",
+            "associated_knowledge_bases": {
+                "raw_code": [
+                    {
+                        "file_identity": "README.md",
+                        ".github/prompts/README.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1",
+                                    "language": "markdown",
+                                    "id": "6e45648fc3472b490a2b8acd90d0d9ea80b75ff3fdb30bea98d9dc1bee498da8",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1 > \ud83d\udcc2 \uc0ac\uc6a9 \uac00\ub2a5\ud55c \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "85928ce79d3298506e0aa73e47381414ee8bcf63512a846bd24555f970d715e5",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1 > \ud83d\udcc2 \uc0ac\uc6a9 \uac00\ub2a5\ud55c \ud504\ub86c\ud504\ud2b8 > 1. \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "98d455b8b27feca013c0da9c90a2dea6200a2a11652fb478ecfe73f14bee6a52",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1 > \ud83d\udcc2 \uc0ac\uc6a9 \uac00\ub2a5\ud55c \ud504\ub86c\ud504\ud2b8 > 2. Pull Request \uad00\ub828 \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "b8cc25bfd61f60c3c5524cecf9edba3a9c81cb4bd17dd5882bc575cc609efd24",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1 > \ud83d\ude80 \uc0ac\uc6a9 \ubc29\ubc95",
+                                    "language": "markdown",
+                                    "id": "c669bdd2ed198177760ab03b1060fdd2395d3db187d96022d542a778d9ba629f",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1 > \u2699\ufe0f \uc0ac\uc804 \uc694\uad6c\uc0ac\ud56d",
+                                    "language": "markdown",
+                                    "id": "3035b665bfec810e77be2c9dbb156b16196a26c91c72bc59abdb8f09a769f602",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "GitHub MCP \ud504\ub86c\ud504\ud2b8 \ubaa8\uc74c\uc9d1 > \ud83d\udd27 MCP \uc124\uc815 \ud655\uc778",
+                                    "language": "markdown",
+                                    "id": "711dfaeb5f72cdfb9557dad02ae6a61cd18720f5128c6b8c1c4ea0f7b6aa2630",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc11c\ubc84 \uc0c1\ud0dc \ud655\uc778",
+                                    "language": "markdown",
+                                    "id": "93defd83acaa0e178b1c71a917740ab1b96a7639512458b736fecdf441b172eb",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778",
+                                    "language": "markdown",
+                                    "id": "95495a5d3a9c5386a9ff6268afee72a1b38e3214ec58bed0cf044a8bd54ac4e3",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udcdd \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc",
+                                    "language": "markdown",
+                                    "id": "cd06b808f2d36c33dbc228afdbf007ba5de6f63505c7b76cc161ac781fb6adf2",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udcdd \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \ub2e4\ub978 \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac \ubd84\uc11d",
+                                    "language": "markdown",
+                                    "id": "621ea764a0849199a172b5cc5efcd48bdfeb8c4c70d71763dcae76e5c95a6a91",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udcdd \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \ub2e4\ub978 \ube0c\ub79c\uce58 \uc124\uc815",
+                                    "language": "markdown",
+                                    "id": "559192526381ad6f6097e778e78a5da1a7cf7379ba552b7633cc31368132014a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udcdd \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \uae30\uc900 \ube0c\ub79c\uce58 \ubcc0\uacbd",
+                                    "language": "markdown",
+                                    "id": "e6bacf1d93719191b14f5a3d9abb262e5dcdea83e34b1ebcbf54fe30547fd3a0",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83c\udf1f \ud65c\uc6a9 \uc2dc\ub098\ub9ac\uc624",
+                                    "language": "markdown",
+                                    "id": "47d9956deea90a3743cb20073cce2b5738a904e7c442114b89ea93a7df68b91f",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83c\udf1f \ud65c\uc6a9 \uc2dc\ub098\ub9ac\uc624 > \ucf54\ub4dc \ub9ac\ubdf0 \uc900\ube44",
+                                    "language": "markdown",
+                                    "id": "81ae6b156bde5141d5e686f4b12fffba8d23b3f30aaefa47242437f90753a4dc",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83c\udf1f \ud65c\uc6a9 \uc2dc\ub098\ub9ac\uc624 > Pull Request Content \uc0dd\uc131",
+                                    "language": "markdown",
+                                    "id": "6b935daeeb16c2d47139568536b598a4aa51142bfdc20e8afc137791c9dc134a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83c\udf1f \ud65c\uc6a9 \uc2dc\ub098\ub9ac\uc624 > Pull Request \uc0dd\uc131",
+                                    "language": "markdown",
+                                    "id": "ef867527b6a7509a20388bcb37548610bc83492b17ac5db380b3015c508b8205",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udd0d \ubb38\uc81c \ud574\uacb0",
+                                    "language": "markdown",
+                                    "id": "e74f3a008ed7f36fa49804fbb9f6ead0f2da840df846fb57162e3be5e674251b",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udd0d \ubb38\uc81c \ud574\uacb0 > GitHub MCP 404 \uc624\ub958",
+                                    "language": "markdown",
+                                    "id": "b434374149d2bcfa31e0764af63291234f10839580486b770aeefd7bc19b5eec",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "MCP \uc124\uc815 \ud30c\uc77c \ud655\uc778 > \ud83d\udd0d \ubb38\uc81c \ud574\uacb0 > MCP \uc5f0\uacb0 \uc624\ub958",
+                                    "language": "markdown",
+                                    "id": "09ad826e33c7faeb654d74696308f6a6f611ea56b181170e3fca749a28bbff21",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "Docker \ucee8\ud14c\uc774\ub108 \uc7ac\uc2dc\uc791",
+                                    "language": "markdown",
+                                    "id": "07e44c5a58d1bd31c5c0354af15b526261dd08167a822e53877bdce87dbea0e7",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "\uc124\uc815 \ud30c\uc77c \uc7ac\ud655\uc778",
+                                    "language": "markdown",
+                                    "id": "e3b749825f45112448741e7d7f4037d94d7e140179aa1cbc75709b00bb9099b9",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "\uc124\uc815 \ud30c\uc77c \uc7ac\ud655\uc778 > \uad8c\ud55c \uc624\ub958",
+                                    "language": "markdown",
+                                    "id": "767f9c8f5f6b179f5478f4a490a70fe41c9e91573ae9b3a44a070acc49febe75",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/README.md",
+                                    "startLine": 1,
+                                    "blobSha": "34bbd29491fab39e278099082eb47036e03a737e",
+                                    "name": "README.md",
+                                    "language": "markdown",
+                                    "id": "2cfe997073b9b4f6537088d04804069151645acb415e5d35035c3fb19364c38a",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "branch-analysis-comprehensive.md",
+                        ".github/prompts/branch-analysis-comprehensive.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "88b7de3f1588ae99f5df5a691822d7600ba02da051ac00209129defd6da8300a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ubaa9\uc801",
+                                    "language": "markdown",
+                                    "id": "704954500848981f14e3eb56ee0b044daf7fb8d9ad82e2a086e4980423477c4d",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \uc0ac\uc6a9 \ubc29\ubc95",
+                                    "language": "markdown",
+                                    "id": "d048d7a15324ac25d1c306f3fd17869fc921d81c2936ab55d1cf918dde338a0a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "47d883789c26f5247aaf9d65716a24a0178378c590734d7883c134e513a740d4",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8 > \ud83d\udd0d \uae30\ubcf8 \uc815\ubcf4 \uc218\uc9d1",
+                                    "language": "markdown",
+                                    "id": "2a9f7bb575acb06c0b9904a557ab39fa9c6c863d291be22bf035750cd49b3fac",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8 > \ud83d\udcca \uc0c1\uc138 \ubcc0\uacbd\uc0ac\ud56d \ubd84\uc11d",
+                                    "language": "markdown",
+                                    "id": "5332db384f7499018f08655c56a933bbe38130d0be3e031c94ec4182f7ea3f22",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8 > \ud83d\udd27 \ucf54\ub4dc \ubcc0\uacbd\uc0ac\ud56d \uc0c1\uc138 \ubd84\uc11d",
+                                    "language": "markdown",
+                                    "id": "d0525ce14116dac2a7c8c4314b640569a3435bd36929278f55a326285e9eac9a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8 > \ud83c\udfaf \uc601\ud5a5\ub3c4 \ubd84\uc11d",
+                                    "language": "markdown",
+                                    "id": "a8c33492f1f344ba8b56b39c7238ddb9d1b3ea409cea378eca1a01293a95891e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8 > \ud83d\udcc8 \ud1b5\uacc4 \uc694\uc57d",
+                                    "language": "markdown",
+                                    "id": "c08e57ba419ad1850d1cc0d35cccd6d45ee55ac5d2351c58e2ce77369517a572",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \ube0c\ub79c\uce58 \ubd84\uc11d \uc694\uccad \ud504\ub86c\ud504\ud2b8 > \ud83d\udcdd \ucd5c\uc885 \uc694\uc57d",
+                                    "language": "markdown",
+                                    "id": "e8672321ddd7cd2d7747ec61a4250e72a32cb69df0e1f01d4a0b4e392c053c2d",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udee0\ufe0f \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc",
+                                    "language": "markdown",
+                                    "id": "26b2182fab3dda35103a98feeb0a59b6f11e417ebade3ecdaeb43ba41dd62405",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udee0\ufe0f \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \ube0c\ub79c\uce58\uba85 \ubcc0\uacbd",
+                                    "language": "markdown",
+                                    "id": "b0e4cc141194df2eded0f7023dadb742f9ecb9346383ca862f36b32236d365b1",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udee0\ufe0f \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac \ubcc0\uacbd",
+                                    "language": "markdown",
+                                    "id": "90de21caa7f2ef73dd9635f93cb7a80249b5e5a31178fd201d31e8790c681e22",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udee0\ufe0f \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \uae30\uc900 \ube0c\ub79c\uce58 \ubcc0\uacbd",
+                                    "language": "markdown",
+                                    "id": "45014caf180316d9cb2163265bf510f9d194b0c1f4660b0c141ebae2b26ab74c",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udee0\ufe0f \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5 \uac00\uc774\ub4dc > \ubd84\uc11d \ubc94\uc704 \uc870\uc815",
+                                    "language": "markdown",
+                                    "id": "fe61f9966cd6b15a5c342062d14794ece9204581ae86a23b211368ed6de4916b",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "GitHub MCP \ube0c\ub79c\uce58 \ubd84\uc11d \ud504\ub86c\ud504\ud2b8 > \ud83d\udcda \ucc38\uace0\uc0ac\ud56d",
+                                    "language": "markdown",
+                                    "id": "0503be529fd25fcf8480d7e02933ec57ae415002272664b528960e8c173e2810",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/branch-analysis-comprehensive.md",
+                                    "startLine": 1,
+                                    "blobSha": "8a129b50d9f2eda78ccacbdeb65a1d2ef936fc87",
+                                    "name": "branch-analysis-comprehensive.md",
+                                    "language": "markdown",
+                                    "id": "8c498ad7941776e4298c7a8c4b172e8a38ddc3a1042d97228668d34d1cff6aa7",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "code-review.prompt.md",
+                        ".github/prompts/code-review.prompt.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/code-review.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "2a8c485af344ac07861f67f675dc79af763b0cae",
+                                    "name": "Code Review",
+                                    "language": "markdown",
+                                    "id": "735bb3ede1e984f896e2fa9fe9058c0031874aa15f94cda395accccbbd28b6fa",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/code-review.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "2a8c485af344ac07861f67f675dc79af763b0cae",
+                                    "name": "code-review.prompt.md",
+                                    "language": "markdown",
+                                    "id": "6326e8291ce32a3c56a9948be2af4b69b86f773ffab89073fd2fe42a40889e72",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "pull-request-auto-generator.md",
+                        ".github/prompts/pull-request-auto-generator.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator",
+                                    "language": "markdown",
+                                    "id": "f7a5f03f147e8f4a1275599c64f99a7b7533f1baa4b11e02642b7587419e2b46",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \uc0ac\uc6a9 \ubc29\ubc95",
+                                    "language": "markdown",
+                                    "id": "5fc43e9eddb2a2915d4e2d484c798102215c0e1d8757c74d5a49214e7de9d77a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "b81abf446223d479efd7508eb459b49f195ea60b150a37a4744c92d38afd7fd4",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83d\udccb \uae30\ubcf8 \uc124\uc815",
+                                    "language": "markdown",
+                                    "id": "0056d5e5b7b4abb62a3a583e4c9a200e2628a6741ab6a26201c4dc716db9f684",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83d\udd27 \uc791\uc5c5 \ubc29\uc2dd",
+                                    "language": "markdown",
+                                    "id": "edc39d9f93b91313b7300f2970aa67be9d2a40ece699aea9446f9f366d2dc46b",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83c\udfaf \uc790\ub3d9\ud654 \uc6cc\ud06c\ud50c\ub85c\uc6b0",
+                                    "language": "markdown",
+                                    "id": "53f9e796f54595c57ac5a849c429f3068f96a473928f5e73e0601c51d1ddfaa0",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83c\udfaf \uc790\ub3d9\ud654 \uc6cc\ud06c\ud50c\ub85c\uc6b0 > 1\ub2e8\uacc4: \ud3ec\uad04\uc801\uc778 \ube0c\ub79c\uce58 \ubd84\uc11d \ud83d\udd0d",
+                                    "language": "markdown",
+                                    "id": "1b2a738735b045f27e79577a489889b50408878254e625956fb072bf22694e96",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83c\udfaf \uc790\ub3d9\ud654 \uc6cc\ud06c\ud50c\ub85c\uc6b0 > 2\ub2e8\uacc4: PR \ucf58\ud150\uce20 \uc0dd\uc131 \ud83d\udcdd",
+                                    "language": "markdown",
+                                    "id": "05764e35da661f90a94d87fae5685e6df3aceda6e1f751055918f87f71862ab3",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83c\udfaf \uc790\ub3d9\ud654 \uc6cc\ud06c\ud50c\ub85c\uc6b0 > 3\ub2e8\uacc4: Pull Request \uc0dd\uc131 \ud83d\udd04",
+                                    "language": "markdown",
+                                    "id": "79d691f53d9eb71cb4546a67743c86bb24eec31af66e9c121ce2fde48c08b4cb",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83d\udee0\ufe0f \uc0ac\uc6a9\ud560 GitHub MCP \ub3c4\uad6c\ub4e4",
+                                    "language": "markdown",
+                                    "id": "c7696321df52f22f9d991ad1e4e50d13e32e0b1ec1ed1371c9533c481a2a9be9",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \u26a0\ufe0f \uc911\uc694: \uc624\ub958 \ubc29\uc9c0 \uac00\uc774\ub4dc\ub77c\uc778",
+                                    "language": "markdown",
+                                    "id": "d15cd1f09e36ba9e604b5e31fcce0d4992f1e03decdb194c58cd6658d2b59014",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83d\udea8 \ucd94\uac00 \uc548\uc804\uc7a5\uce58",
+                                    "language": "markdown",
+                                    "id": "454f7753df316c7112716dc9373e68dbd0a1d8aec49a92eeb4656e6772464e2e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83c\udfaf \uc131\uacf5 \uae30\uc900",
+                                    "language": "markdown",
+                                    "id": "4b33e9949f2089bbf2b527cc8de253936e96d09c7037c4cea7e640313e484415",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83d\udcda \ucc38\uace0 \ud504\ub86c\ud504\ud2b8",
+                                    "language": "markdown",
+                                    "id": "29ec5797a343fa20ef2283724861606f98517c748a29957fc8953410ff8eee0c",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud83d\ude80 \uc644\uc804 \uc790\ub3d9\ud654\ub41c PR \uc0dd\uc131 \ud504\ub86c\ud504\ud2b8 > \ud83d\udca1 \ucd94\uac00 \uc635\uc158",
+                                    "language": "markdown",
+                                    "id": "57e0fc781f89bd6185e2e2e273a1e967b8be88a5e7f249d2aa891b649389e108",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \uc8fc\uc758\uc0ac\ud56d",
+                                    "language": "markdown",
+                                    "id": "0292b9e630138cdf7273d27c8fb26bf305cf12fa936d29a7971e09d43e58fe60",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ubb38\uc81c \ud574\uacb0",
+                                    "language": "markdown",
+                                    "id": "bb86f4b041d0521f2bec783a4c6168f6a5d951ebf475d93efcec399e5c8ecc63",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ubb38\uc81c \ud574\uacb0 > \uc77c\ubc18\uc801\uc778 \uc624\ub958",
+                                    "language": "markdown",
+                                    "id": "5afd927565550a19088c25b07230b7b7e064d87a1e6b7c7958b10997563a0056",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ubb38\uc81c \ud574\uacb0 > \ubd80\ubd84 \uc2e4\ud589",
+                                    "language": "markdown",
+                                    "id": "85c9eeb2c9c2c4d2f690e90a548785ddcf838c3f5fdad91c32111659dd5b4df1",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "Pull Request Auto Generator > \ud655\uc7a5 \uac00\ub2a5\uc131",
+                                    "language": "markdown",
+                                    "id": "d4f25416f6d265dbf6e2dbc45a1a046cdc920e59177e1e62effd2f1c9ab7d440",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-auto-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "db0d0c73cffc5f9232f3aab29e433ebcc48d3f03",
+                                    "name": "pull-request-auto-generator.md",
+                                    "language": "markdown",
+                                    "id": "8e12338c5c0c18bc996d206e67af9142e65bf21e3f37144e0beedad830d0a88b",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "pull-request-content-generator.md",
+                        ".github/prompts/pull-request-content-generator.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator",
+                                    "language": "markdown",
+                                    "id": "e7bd1d1a98d54eea14e2cd3f70eb98213399d9abe50800baf00caccaa8735d77",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Required Information",
+                                    "language": "markdown",
+                                    "id": "6ebe47a0a432d9b47e4cf28fcb445e14ff85d87e9b0c7d0714dc38c087850f26",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Instructions",
+                                    "language": "markdown",
+                                    "id": "195d372d5aecbc39e9e32510bd451ead1b21169021f7ed225bea1995a9a35baa",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps",
+                                    "language": "markdown",
+                                    "id": "f6effa88d506aa1bb74224ba693a4a7e80c3929fb4387a712d5997bbec07b764",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps > 1. Branch Analysis Integration",
+                                    "language": "markdown",
+                                    "id": "103b35fa5435ba68daa81992ef26aacf3583515acfe07f59db933492116404f1",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps > 2. Code Changes Analysis by Category",
+                                    "language": "markdown",
+                                    "id": "3e317a92013fa7f3562f090b54c2525d0961ae3fc06d012995ffa3f223801cde",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps > 3. Detailed Code Analysis by Class",
+                                    "language": "markdown",
+                                    "id": "b69030fcce466af701a63d56403fa203e6847923703e398c7ef523e82ba5fe3c",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps > 4. Test Code Analysis",
+                                    "language": "markdown",
+                                    "id": "25efa53171f5239e5cdacd72984c32617dcb6f1c629fb4aaffa3265d73880ec4",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps > 5. Build and Configuration Analysis",
+                                    "language": "markdown",
+                                    "id": "7f259ae264c8c9bde7f7bae506acd6195c335e7b9803daf4ea00c81dea7bd315",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Analysis Steps > 6. Create PlantUML Sequence Diagrams",
+                                    "language": "markdown",
+                                    "id": "e68f6fc01b8d4e9dd9e9240b50179fbca086699fe798e8fc4368f30641bdd587",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "Pull Request Content Generator > Output Format",
+                                    "language": "markdown",
+                                    "id": "0df79a0f7aa7ad1845dbab4cc2deaaad40c24b5ef686b854eaadd33e0563750f",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title",
+                                    "language": "markdown",
+                                    "id": "519bea4f04e695b8466829221dd3f37a0e63c6be21a806339450f7cedd195824",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description",
+                                    "language": "markdown",
+                                    "id": "f1a38e6bc80faecbd25c7b5000e1b8e41114470ef90ae0bbab3e2703f754b81d",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Total Summary",
+                                    "language": "markdown",
+                                    "id": "2a4039b2953bde06e4f44bfef735de2c2db31e25be2d97c3cb5f9dea8609527e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Branch Analysis Summary",
+                                    "language": "markdown",
+                                    "id": "f09ebae88064c800a1c5191d7b723a07bd64ea584d7692892443c10365abf023",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis",
+                                    "language": "markdown",
+                                    "id": "8afab8d83230e9afadc068ffd69d19be90fa53fd21cef6d9395181f37a0c5099",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > File Statistics",
+                                    "language": "markdown",
+                                    "id": "7eb231d36291850db49f5e2962ef60f7eda573079c4c0f801c00e5802a9b8d50",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category",
+                                    "language": "markdown",
+                                    "id": "837ed159ca42ba15b657ca59adfbbcfdad46611eb4e956f5a4c38a471104d287",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category > Dependency Changes",
+                                    "language": "markdown",
+                                    "id": "ba378f7b302dd73ef14b68c22a1b0d9be4a16a89216c1f3d4df17ee9c0cf9b4e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category > New Features",
+                                    "language": "markdown",
+                                    "id": "076874c1222897b24d82960ae9b94db59acfaa4b39b389f60afcef6ad75b9f00",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category > Refactoring",
+                                    "language": "markdown",
+                                    "id": "f716dd6b50696bf5c0dbcd25b011a660141a7fbdafadc3cbfecd263041a945d2",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category > Configuration Changes",
+                                    "language": "markdown",
+                                    "id": "7808384449ed9186769b12b3891d2f96c28fd1a1536a57eeb5522100ce653fd6",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category > Bug Fixes",
+                                    "language": "markdown",
+                                    "id": "6914a3dc2f371fe6aee6d8676309bb0c35f81dc0458f8cb717bad72763c79f50",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Detailed Changes Analysis > Changes by Category > Documentation",
+                                    "language": "markdown",
+                                    "id": "e232e3f81462bae65b8c8790256c7ec74fc052ff0b721f908f55b46c515417d0",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Code Changes by Class",
+                                    "language": "markdown",
+                                    "id": "876e63ee8d1fe920f55ccb082c9bd5a21c2a8a92fd224db3d1ba2c36f6ce3dd8",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Code Changes by Class > Class Name",
+                                    "language": "markdown",
+                                    "id": "070b2cbe92fb6b8c5029ba4edd6c499f0cd1386a709ddd575866b4bf2f584a97",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Test Coverage",
+                                    "language": "markdown",
+                                    "id": "3efab9f5b222a4406d45facc74f32167b2ac05b86f04eab0928243cae10ebe8a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Test Coverage > Unit Tests",
+                                    "language": "markdown",
+                                    "id": "4e31b294e61114dcb8e4c1f0741aa32a0ea8ec2f87e69f4a7241ed20f68d33f9",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Test Coverage > Instrumented Tests",
+                                    "language": "markdown",
+                                    "id": "5b74db1cb3f19244022cc35073bd5c37f17739f098672f766b17ec7fc42c4fd6",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Test Coverage > Edge Cases",
+                                    "language": "markdown",
+                                    "id": "b650597b48c2777284eae05202751a2e2fbd21dc0bb6204108e4f85b0cda3a9b",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Test Coverage > Coverage Assessment",
+                                    "language": "markdown",
+                                    "id": "85fb7a7e6de5b5fc25187b663375c729e226ee53737e50daec205e1396232ba3",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Build and Configuration Impact",
+                                    "language": "markdown",
+                                    "id": "ce2d2cfb570c08cdc1911d3026262958bb9369054973a15c9a53fe08b25aa717",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Build and Configuration Impact > Gradle Changes",
+                                    "language": "markdown",
+                                    "id": "075ee77184007ad6d621b762d6861be7420f1dfd0b788e8f4c660781f5fb1e06",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Build and Configuration Impact > Android Manifest",
+                                    "language": "markdown",
+                                    "id": "a87af1e028566954f731152d48c8729e576eaaab64b1e8cf296dc528695f56aa",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Build and Configuration Impact > Resource Files",
+                                    "language": "markdown",
+                                    "id": "46a642bb3d52a10b19fd7dfb629c4ed5fa5de4d34af6e492a3fe553adb4633a3",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Sequence Diagrams",
+                                    "language": "markdown",
+                                    "id": "2c54528687752a8a0e909a68952a7a8b2a7e14db55e1bb08ca69557ec4d880a2",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Impact Analysis",
+                                    "language": "markdown",
+                                    "id": "8b2bc2ffa33b376f6218e7fb434bd9cc2272b795337d8275a24b8eee68307579",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Impact Analysis > Functional Impact",
+                                    "language": "markdown",
+                                    "id": "612d7e3da3f440817b1e4d7c87a6de388dafb5da313223ebfc9b14cb4427f88e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Impact Analysis > Technical Impact",
+                                    "language": "markdown",
+                                    "id": "f8b4bd67e725a913055ef8d507ccc2f69442ca2852dbd9e0000bf6a79b921c24",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Description > Impact Analysis > Quality Impact",
+                                    "language": "markdown",
+                                    "id": "990b2dfc0ad1f0ef730857fef2b9f7f09a8b4a9a3a16836d3cf692cd6fd7fea9",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Types of changes",
+                                    "language": "markdown",
+                                    "id": "d7758260dc1f7e085d9b892bcbe9dc53ef02ce727d42e066bd068c8c0d4ac915",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Testing - Describe how this was qualified",
+                                    "language": "markdown",
+                                    "id": "fb43743dc3d1e517f056bf355393f0f84b968f860d4a9e20dc07688c208aafb7",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Diagram Structure",
+                                    "language": "markdown",
+                                    "id": "3aa9134fac02067437f29bd757c4bd1e2d68ccfbb756e546f536987dd52f17ca",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "[JIRA-ID] PR Title > Usage Example",
+                                    "language": "markdown",
+                                    "id": "5fa80e5c6e30e4978ec0b385a030f05b79fd1085ade56affb754c8f5fb57009d",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/pull-request-content-generator.md",
+                                    "startLine": 1,
+                                    "blobSha": "7455b056a326d859d7e557f0d71887387f3a7581",
+                                    "name": "pull-request-content-generator.md",
+                                    "language": "markdown",
+                                    "id": "b4a0b284d1b57860431b70fc6d0b02455acd7989be7aee04be437cbcf8e806fc",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "file_identity": "test-code-generator.prompt.md",
+                        ".github/prompts/test-code-generator.prompt.md": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator",
+                                    "language": "markdown",
+                                    "id": "c62546fe3572c22114ff445bbe1a708869fffca74fa80734548d1c4148fa02a1",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Test Coverage Requirements",
+                                    "language": "markdown",
+                                    "id": "d4a3e3eaa3b48cfb1c1a0e9a84bb513529aba3251ca8e043cc800312ef896c1a",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Test Types",
+                                    "language": "markdown",
+                                    "id": "b3b479cb157f7d78b179daffa0570c46853d8a99b86cd52fd5c2def3999c64fb",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Test Types > Unit Tests",
+                                    "language": "markdown",
+                                    "id": "301e568c75ed4cde2e0f75a4418510766145423b38b616d6e45e62c18077635c",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Test Types > Instrumented Tests",
+                                    "language": "markdown",
+                                    "id": "b9ab1443891f99e93edb0e56f466d2a005c7a985f5b543b903e5dcc99718d799",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Code Style Guidelines",
+                                    "language": "markdown",
+                                    "id": "a86cf3af2a48ca9a6d6ed1373385f3a02946ec72864c313b3cc99737c4fbc30c",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Code Style Guidelines > Source File Organization",
+                                    "language": "markdown",
+                                    "id": "315c9a41932e1d43da5b6f84002bfc052ea10370086247db24efeb2c5b7c0dbe",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Code Style Guidelines > Method Naming Conventions",
+                                    "language": "markdown",
+                                    "id": "492c66294d5096191c6b014a5c7935905923ac6ec64ce060ca9f1a326576b5c7",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Unit Test Best Practices",
+                                    "language": "markdown",
+                                    "id": "2e762240bca5cf80e84c71663f22fc8c055bb877f95b0ce278152b91c27d8d4e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Instrumented Test Best Practices",
+                                    "language": "markdown",
+                                    "id": "7447a8f2aa9644cfd834aef44e83f0a94b1113cdf6a1281350b352b78397cf1e",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Test Data and Mock Objects",
+                                    "language": "markdown",
+                                    "id": "920ffa8eae186623bc65f390d817e5fc3e2452fdac532efc2929f4d99539aa58",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Dependencies",
+                                    "language": "markdown",
+                                    "id": "a8e88e31eb584817810fb5d68a2e0d296b3cf7f7f872e4ed687f308f570b9e19",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "Android Test Code Generator > Test Generation Workflow",
+                                    "language": "markdown",
+                                    "id": "9a724fb886aba5f57317ff8315a536c07f466849f7976f163bb0a8688677d204",
+                                    "chunkType": "section",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/prompts/test-code-generator.prompt.md",
+                                    "startLine": 1,
+                                    "blobSha": "97ee484f94598451761d63508deafe6859bffafa",
+                                    "name": "test-code-generator.prompt.md",
+                                    "language": "markdown",
+                                    "id": "b1656eeba09a7e861a35268fb733c31c5afeb2c596ee5490753bc58a63a0abd4",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code_doc": [
+                    {
+                        "kb_id": "",
+                        "kb_name": ""
+                    }
+                ]
+            }
+        },
+        "workflows": {
+            "generated_doc_filepath": "",
+            "purpose": "",
+            "associated_knowledge_bases": {
+                "raw_code": [
+                    {
+                        "file_identity": "logdaemon_pi.yml",
+                        ".github/workflows/logdaemon_pi.yml": {
+                            "chunks": [
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "name",
+                                    "language": "yaml",
+                                    "id": "9ff454fcb69b66c812d71e53839738409d620b81e0a16a7e9d9fe1dbb5da3143",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "on",
+                                    "language": "yaml",
+                                    "id": "3681ab6a88e33cb87c3be18d80b77946788cb2fc5a47969a957b4bc0aec709bd",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "on > pull_request",
+                                    "language": "yaml",
+                                    "id": "54e7ec2e6e2875b18f6183acebc4024ae99b0bc9414e109d3af9d94d974466b0",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "on > pull_request > branches",
+                                    "language": "yaml",
+                                    "id": "f1f5e4b1465db8a8de6103c587cae5c3af4c6708d1da8ed0c18af2db2fb5f468",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "on > pull_request > types",
+                                    "language": "yaml",
+                                    "id": "fbb8b266358933ef1b7bc43cf59c079112a9ed498067177c31a4aee8dfdb7ef1",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "on > schedule",
+                                    "language": "yaml",
+                                    "id": "9e1d2217054a3ead9f10cd3a593a1b3217658e942e07be15969802ba513bf142",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "on > workflow_dispatch",
+                                    "language": "yaml",
+                                    "id": "abad4dd07c5a51841a6e3c5c2ffe81d1794231f141ae6a752ffed747c392d4a8",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "jobs",
+                                    "language": "yaml",
+                                    "id": "e8deeef1c1d84a9bc5bebaf877de2505582408aa618d5064bf00efcd7c19b71c",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "jobs > Build_Tests",
+                                    "language": "yaml",
+                                    "id": "a03dc808924d4c570fdac05bf61c3d603412a545811f0e18df3fbb19f3edd6e6",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "jobs > Build_Tests > runs-on",
+                                    "language": "yaml",
+                                    "id": "6997c0d4ad5b3dd5b54858cc5b97822cb80065f863c8e18ae3444ccb069f604e",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "jobs > Build_Tests > env",
+                                    "language": "yaml",
+                                    "id": "43b1ba4f70bb01c8596c120329563fc4a930eca435daa4b38fbe72fc2bf7bcf7",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "jobs > Build_Tests > steps",
+                                    "language": "yaml",
+                                    "id": "ca2634d04a0c9f373260d5a60cce96666aff295c8f23fc1dc433446d8c44ece8",
+                                    "chunkType": "config",
+                                    "isTestFile": false
+                                },
+                                {
+                                    "endLine": 1,
+                                    "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                                    "filePath": ".github/workflows/logdaemon_pi.yml",
+                                    "startLine": 1,
+                                    "blobSha": "4467f6044529a8772d9e771eab60d3cef090a185",
+                                    "name": "name",
+                                    "language": "yaml",
+                                    "id": "938919e7c3186b926c29f5e23625b3abac635384a322919baa4978a87b57eec7",
+                                    "chunkType": "module",
+                                    "isTestFile": false
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code_doc": [
+                    {
+                        "kb_id": "",
+                        "kb_name": ""
+                    }
+                ]
+            }
+        }
+    },
+    "generated_doc_filepath": "",
+    "purpose": "",
+    "associated_knowledge_bases": {
+        "raw_code": [
+            {
+                "file_identity": "Jenkinsfile",
+                "Jenkinsfile": {
+                    "chunks": [
+                        {
+                            "endLine": 80,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 1,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "beebf38d3bf60ec1655ded636369d10912aa8bd7b72423a274b2e7f1a3392b69",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        },
+                        {
+                            "endLine": 145,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 66,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "128275a1c85a95ee671dfb960c7d549338d48e2cd23dd6e8ccce1add5f1d9215",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        },
+                        {
+                            "endLine": 210,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 131,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "9bf4038896e0ac6e934d3fd35ee67262a58e117772e1ae144d0ca2f7cef3690f",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        },
+                        {
+                            "endLine": 275,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 196,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "feacf29fa27f608394b05432fcf7b9406b8a98cb3178df3d28391df219a85b62",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        },
+                        {
+                            "endLine": 340,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 261,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "e0290337bbba88518c7643b86c6cdf3f4cbef32a7b79b3286d759a41148cd407",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        },
+                        {
+                            "endLine": 405,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 326,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "5329d88968472c1d9f9c336255a38160b028e1f189153ec7328b2d4e977f17bd",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        },
+                        {
+                            "endLine": 453,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "Jenkinsfile",
+                            "startLine": 391,
+                            "blobSha": "a7e10792ed983f060b02faa79d1856c999720263",
+                            "name": "",
+                            "language": "unknown",
+                            "id": "de1d4163ba4ec9ce82c80a1bf2755563ae7fa245ce87a9daf6c80c9c853d5af1",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        }
+                    ]
+                }
+            },
+            {
+                "file_identity": "README.md",
+                "README.md": {
+                    "chunks": [
+                        {
+                            "endLine": 1,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "README.md",
+                            "startLine": 1,
+                            "blobSha": "07627dc1c031dfa6c0c2ff501723fe2ea390e594",
+                            "name": "README.md",
+                            "language": "markdown",
+                            "id": "58dd77fda76ddbb88e0e14e405f555acf098179b09db1b2962d6971cf7e6f33b",
+                            "chunkType": "module",
+                            "isTestFile": false
+                        }
+                    ]
+                }
+            },
+            {
+                "file_identity": "build.gradle.kts",
+                "build.gradle.kts": {
+                    "chunks": [
+                        {
+                            "endLine": 22,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "build.gradle.kts",
+                            "startLine": 1,
+                            "blobSha": "fe979dab2e1b736c1fa1c8e9dd2be43a912cf5a7",
+                            "name": "",
+                            "language": "kotlin",
+                            "id": "9434508cb9f3ca2269a25a2376de9f3c1050857b2c83eeed5d0007c8c5ada8d9",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        }
+                    ]
+                }
+            },
+            {
+                "file_identity": "settings.gradle.kts",
+                "settings.gradle.kts": {
+                    "chunks": [
+                        {
+                            "endLine": 18,
+                            "indexedAt": "2026-06-19T11:26:59.001322964Z",
+                            "filePath": "settings.gradle.kts",
+                            "startLine": 1,
+                            "blobSha": "416fc8c47407ac1d2e6d18e03cd5752008eea1d6",
+                            "name": "",
+                            "language": "kotlin",
+                            "id": "f06050da61d17a6531c5065addef769c190a3399d5967792926c8c2473200163",
+                            "chunkType": "fallback",
+                            "isTestFile": false
+                        }
+                    ]
+                }
+            }
+        ],
+        "code_doc": [
+            {
+                "kb_id": "",
+                "kb_name": ""
+            }
+        ]
+    }
+}
