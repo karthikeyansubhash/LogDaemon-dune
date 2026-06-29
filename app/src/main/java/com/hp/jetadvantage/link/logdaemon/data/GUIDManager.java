@@ -105,14 +105,6 @@ public class GUIDManager {
         }
 
         /**
-         * Get the list of UUIDs (read-only view)
-         * @return unmodifiable list of UUIDs
-         */
-        public List<String> getUuids() {
-            return new ArrayList<>(mArray);
-        }
-
-        /**
          * Get the number of UUIDs
          * @return size of the UUID array
          */
